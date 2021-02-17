@@ -1,2 +1,2 @@
-# retail-ml-project
+# Retail ML
 Retail ML Project Repo
